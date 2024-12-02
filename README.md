@@ -1,8 +1,8 @@
-///////////////////////////////////////////ENERGY ELECTRONICS SYSTEM//////////////////////////////////////
+                                                            ENERGY ELECTRONICS SYSTEM
 
 
 1. PROJECT OVERVIEW
-This project involves the design of an energy electronics system in Matlab Simulink, including a three-phase network, rectifier, DC/DC converter, inverter, and a synchronous motor with permanent magnets.
+   This project involves the design of an energy electronics system in Matlab Simulink, including a three-phase network, rectifier, DC/DC converter, inverter, and a     synchronous motor with permanent magnets.
 
 2. KEY FEATURES
   - Voltage regulation: 290V DC on inverter bus.
